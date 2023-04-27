@@ -5,6 +5,8 @@ Guardian;
 
 ]]
 
+task.wait(2) -- fix crash
+
 if getgenv().Guardian then return end
 getgenv().options={
     MaliciousNamecalls={
