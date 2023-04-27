@@ -1,3 +1,9 @@
+# CREDITS:
+* **[@GalacticHypernova](https://github.com/GalacticHypernova)** - *Creator of Guardian*
+* **[@Code1Tech](https://github.com/Code1Tech)** - *'Smooth Skin' UI Library Creator*
+* **[@elonof](https://github.com/elonof)** - *Skin Creator*
+
+
 # GuardianSKINS
 Skins for Guardian, a script that protect users from malicious roblox/user-made functions/scripts.
 
